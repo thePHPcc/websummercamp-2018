@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./phpab.phar -o src/autoload.php src
